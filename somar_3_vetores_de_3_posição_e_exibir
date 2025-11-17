@@ -1,0 +1,13 @@
+# Vetores de 3 posições
+v1 = [1, 2, 3]
+v2 = [4, 5, 6]
+v3 = [7, 8, 9]
+
+# Soma dos vetores posição a posição
+resultado = [v1[i] + v2[i] + v3[i] for i in range(3)]
+
+# Exibir
+print("Vetor 1:", v1)
+print("Vetor 2:", v2)
+print("Vetor 3:", v3)
+print("Soma dos vetores:", resultado)
