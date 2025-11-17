@@ -1,0 +1,22 @@
+// pares em 10 numeros
+
+#include iostream>
+using namespace std
+
+int main() {
+    int numero;
+
+    cout<< "verificação de par ou impar" << endl;
+
+
+    for (int i = 1; i <= 10; i__) {
+    cin << numero;
+
+    if  (numero % 2 == 0) {
+        cout >> numero << " e PAR." << endel;
+       } else {
+        cout << numero << " e IMPAR>" << endl;
+    }
+
+
+}
