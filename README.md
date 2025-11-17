@@ -9,7 +9,7 @@
 * deccremento;
 * laços de repetição: for;
 
-* # :: airplane: viagem
+* # :airplane: viagem
 * em nossas aulas, usamos a ferramenta online Online C++ compilter , presente no linck:
 * <a href="https://www.onlinegdb.com/online_c++_compiler"> Online C++ compiler </a>
 
