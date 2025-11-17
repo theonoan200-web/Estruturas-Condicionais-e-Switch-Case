@@ -1,0 +1,19 @@
+A = []
+B = []
+
+# Leitura dos vetores
+print("Digite os 3 elementos do vetor A:")
+for i in range(3):
+    A.append(float(input(f"A[{i}]: ")))
+
+print("\nDigite os 3 elementos do vetor B:")
+for i in range(3):
+    B.append(float(input(f"B[{i}]: ")))
+
+# Cálculo de D = A - B
+D = [A[i] - B[i] for i in range(3)]
+
+# Exibição dos resultados
+print("\nVetor A:", A)
+print("Vetor B:", B)
+print("Vetor D = A - B:", D)
